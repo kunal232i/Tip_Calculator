@@ -4,7 +4,7 @@
 }
 
 body {
-  background: #8990ec;
+  background: #61e1e6;
 }
 
 .wrapper {
@@ -48,7 +48,7 @@ body {
 }
 
 .buttonContainer {
-  background: #8990ec;
+  background: #61e1e6;
   display: grid;
   place-items: center;
   width: 1.6rem;
